@@ -1,28 +1,17 @@
-## CRUD Operations Using MongoDB & Node.js
+## Build A Restful Api With Node.js Express & MongoDB
 
-### Video toutorial - https://www.youtube.com/watch?v=ayNI9Q84v8g
-
-### Timeline
-    Chapters: 
-    - 00:00 Intro
-    - 00:40 Set Up
-    - 08:51 How MongoDB Stores Data
-    - 11:01 Creating Documents
-    - 20:04 Reading Documents
-    - 30:58 Updating Documents
-    - 45:52 Deleting Documents
-    - 51:07 Summary
-
+### Video toutorial - https://www.youtube.com/watch?v=vjf774RKrLc
 
 ### Description
-In this intro to using MongoDB with Node.js, Developer Advocate Lauren Schaefer walks through the basics of how to connect to a MongoDB database using Node.js.  Then she gives a high-level explanation of how MongoDB stores data in documents and collections.  Finally, she works through each of the CRUD (Create, Read, Update, and Delete operations).  She explains how to use insertOne(), insertMany(), findOne(), find(), updateOne() with and without upsert, updateMany(), deleteOne(), and deleteMany().    
+We are going to cover how to create a restful api using node.js express and mongodb together with mongoose.
+
+Rest apis help us decouple our backend code from our front end so we can use it across multiple application (mobile apps, web apps, etc).
+We are going to learn how to build a simple blog post type api with all the useful methods(GET,POST,DELETE,PATCH).
+
+We use Node.js as our backend language, express.js is going to help us create routes easier and middlewares and we use mongodb together with mongoose to create schemas and models that define how our data looks.
+
+If you are a beginner with nodejs, express or mongodb I hope that this tutorial will give you a good idea of how these technologies work well together.
     
-### Usefull Links
-    Text-based version of this tutorial: https://www.mongodb.com/blog/post/qui...
-    MongoDB Atlas: https://bit.ly/MDB_Atlas
-    How to create a free cluster on Atlas:  https://youtu.be/rPqRyYJmx2g
-    MongoDB University's Data Modeling Course:  http://bit.ly/M320_DataModeling
-    MongoDB University's Javascript Course:  https://bit.ly/M220JS
 
 ## Additional info
 
@@ -30,29 +19,26 @@ In this intro to using MongoDB with Node.js, Developer Advocate Lauren Schaefer 
 
 - Some data samples: 
 
-        {
-            "_id": "5e7340ac020e8698e8a55ee1",
-            "name": "Lovely Loft",
-            "summary": "A charming loft in Paris",
-            "bedrooms": 1,
-            "bathrooms": 1,
-            "propert_type": "Unknown"
-        },{
-            "_id": 5e7341d770386646206d743e,
-            "name": "Infinite Views",
-            "summary": "Modern home ...",
-            "property_type": "House",
-            "bedrooms": 4,
-            "bathrooms": 5,
-            "beds": 6,
-            "propert_type": "Unknown"
-        },{
-            "_id": 5e7341d770386646206d743f,
-            "name": "Private room in London",
-            "summary": "Modern home ...",
-            "property_type": "Apartments",
-            "bedrooms": 1,
-            "bathrooms": 4,
-            "beds": 7,
-            "propert_type": "Unknown"
-        }
+        [
+            {
+                "_id": "5e73ae904e0701513c3818b8",
+                "title": "my next post",
+                "description": "some description",
+                "date": "2020-03-19T17:40:32.978Z",
+                "__v": 0
+            },
+            {
+                "_id": "5e73af7dafaf0240f01b271b",
+                "title": "my next one post",
+                "description": "some description",
+                "date": "2020-03-19T17:44:29.197Z",
+                "__v": 0
+            },
+            {
+                "_id": "5e73b01ea30655461046e8a2",
+                "title": "new title",
+                "description": "some description",
+                "date": "2020-03-19T17:47:10.664Z",
+                "__v": 0
+            }
+        ]
