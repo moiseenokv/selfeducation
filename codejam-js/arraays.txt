@@ -1,0 +1,11 @@
+
+
+
+//filter
+
+//map
+
+//reduce
+
+//every
+
