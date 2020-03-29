@@ -1,5 +1,7 @@
 ## Detailed Instruction
 
+src: https://www.youtube.com/watch?v=CVpUuw9XSjY&t=465s
+
 #### Simple explaination with REACT
 
 1)  We have to create separate folders **'actions'** and **'reducers'** in src folder
