@@ -128,7 +128,7 @@ Code example of new reducer:
 |-----------|-------------|-------------|
 | clickerPlusOne | clicker.js | actions
 
-Code example of new reducer:
+Code example of new action:
 
     export const clickerPlusOne = () => {
         return {
