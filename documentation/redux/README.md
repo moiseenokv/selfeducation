@@ -1,5 +1,7 @@
 ## Detailed Instruction
 
+src: https://www.youtube.com/watch?v=CVpUuw9XSjY&t=465s
+
 #### Simple explaination with REACT
 
 1)  We have to create separate folders **'actions'** and **'reducers'** in src folder
@@ -128,7 +130,7 @@ Code example of new reducer:
 |-----------|-------------|-------------|
 | clickerPlusOne | clicker.js | actions
 
-Code example of new reducer:
+Code example of new action:
 
     export const clickerPlusOne = () => {
         return {
