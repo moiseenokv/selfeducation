@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+; !!!! Change PATH C:\\Program Files\\Microsoft VS Code\\Code.exe\ below to your path of VScode !!!!
+; Change TXT file extension to REG
+; Run it, motherfckr!!!
+
+
+; This will make it appear when you right click ON a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\shell\vscode]
+@="Open folder as vscode project"
+"Icon"="\"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
+@="\"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"%1\""
+
+
+; This will make it appear when you right click INSIDE a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
+@="Open folder as vscode project"
+"Icon"="\"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\",0"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
+@="\"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"%V\""
