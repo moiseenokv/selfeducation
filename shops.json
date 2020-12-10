@@ -1,0 +1,1308 @@
+{
+    "status": 200,
+    "message": "Shop(s) was(were) extracted successfull",
+    "data": [
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "2.9",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "140",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 140 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML,\nneed cashback conditions",
+                "date": "2020-11-26T17:58:39.948Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fbfed59ceb0a81ac25d2e34",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Allegro",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "69",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "105",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 105 dni\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-27T19:12:43.576Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc14f683b1d1b6b6aa65edd",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "AliExpress",
+            "partnerID": "5f0333bb7e66941290145c32",
+            "partnerName": "admitad"
+        },
+        {
+            "category": "others",
+            "cashback": {
+                "sum": "5",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "61",
+                "maxTime": "120",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 140 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML,\nneed cashback conditions, need to add category - \"Cosmetics\" and \"Health&Beauty\"",
+                "date": "2020-11-30T13:07:28.646Z",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc270d33b1d1b6b6aa65ede",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Douglas PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "10",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "90",
+                "maxTime": "125",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 140 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-28T16:31:09.115Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc27a233b1d1b6b6aa65edf",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Wittchen PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "121",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 121 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc27e803b1d1b6b6aa65ee0",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Butsklep PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "electronics",
+            "cashback": {
+                "sum": "2.8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "97",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 121 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc3632a3b1d1b6b6aa65ee1",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "North PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "erotica",
+            "cashback": {
+                "sum": "12",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "69",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 69 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-29T09:32:53.156Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc3696f3b1d1b6b6aa65ee2",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "SexShop112 PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "4",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "76",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 76 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-29T09:44:05.899Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc36d0e3b1d1b6b6aa65ee4",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Nike PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "zoo",
+            "cashback": {
+                "sum": "4",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "98",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 98 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions\n\n",
+                "date": "2020-11-30T11:34:54.715Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc4d7ded9d82c070e1da044",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Fera PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "6",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "123",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 123 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-30T12:07:02.369Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc4d9ead9d82c070e1da045",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Mosquito PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "sport",
+            "cashback": {
+                "sum": "4",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "80",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 80 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-30T12:21:46.368Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc4e3acd9d82c070e1da046",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Yessport PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "house",
+            "cashback": {
+                "sum": "6",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "133",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 133 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category AGD",
+                "date": "2020-11-30T12:51:56.301Z",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc4ea10d9d82c070e1da047",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "4home PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "sport",
+            "cashback": {
+                "sum": "5",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "120",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 120 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-11-30T16:42:11.250Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc520e4d9d82c070e1da048",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Outdoorzy PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "7",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "89",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 89 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category - \"Cosmetics\" and \"Health&Beauty\"",
+                "date": "2020-11-30T17:01:21.819Z",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc52548d9d82c070e1da049",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Estyl PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "food",
+            "cashback": {
+                "sum": "5.38",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "63",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 63 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category AGD",
+                "date": "",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc529a6d9d82c070e1da04a",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Konesso PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "5",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "172",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 172 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-01T14:32:43.016Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc653d3d9d82c070e1da04b",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Distance PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "4",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "183",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 183 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc663b5d9d82c070e1da04c",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Crocs PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "10",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "67",
+                "maxTime": "101",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 67 do 101 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category - \"Cosmetics\" and \"Health&Beauty\"",
+                "date": "",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc69731d9d82c070e1da04d",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Sephora PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "1.5",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "91",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 91 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc69ab9d9d82c070e1da04e",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Mall PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "services",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "89",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 89 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-01T19:50:37.105Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc69d84d9d82c070e1da04f",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Globkurier PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "5",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "170",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 170 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T09:42:48.895Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc75c6dd9d82c070e1da050",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "New Balance PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "9.23",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "115",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 115 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T10:29:38.142Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc76c4ed9d82c070e1da051",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Avaro PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "house",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "92",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 92 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T10:44:31.604Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc76fcdd9d82c070e1da052",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Lampy PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "6",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "86",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 86 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T13:25:40.249Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc795b0d9d82c070e1da053",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "DSTREET PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "6.92",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "325",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 325 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category - \"Health&Beauty\"",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc79819d9d82c070e1da054",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Shop dent PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "6.1",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "125",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 125 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T13:47:32.604Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc799e3d9d82c070e1da055",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Worldbox PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "217",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 217 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T14:01:53.905Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc79bded9d82c070e1da056",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "51015 PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "9.23",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "112",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 112 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T14:29:43.028Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc7a455d9d82c070e1da057",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Kontri PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "services",
+            "cashback": {
+                "sum": "40",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "57",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 57 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T14:49:42.618Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc7a95ad9d82c070e1da058",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Ivacy VPN",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "house",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "90",
+                "maxTime": "146",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 90 do 146 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-02T15:25:05.012Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc7b12cd9d82c070e1da059",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Vivre PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "sport",
+            "cashback": {
+                "sum": "8",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "61",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 61 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add subcategory- \"Suplementy diety\"",
+                "date": "2020-12-03T12:28:08.932Z",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc7de0dd9d82c070e1da05a",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Myprotein PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "4.23",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "150",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 150 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-03T15:11:47.434Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc8da5dd9d82c070e1da05b",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Primamoda PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "6.15",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "145",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 145 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-03T15:33:39.856Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc9041ed9d82c070e1da05c",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Pantofelek24 PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "6",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "87",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 87 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-03T15:52:43.562Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fc909ccd9d82c070e1da05d",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Lejdi",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "house",
+            "cashback": {
+                "sum": "10",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "133",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 133 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-04T11:12:12.044Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fca1972d9d82c070e1da05e",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "MyLoview PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "4",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "30",
+                "maxTime": "150",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 30 do 150 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-04T11:33:53.328Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fca1e84d9d82c070e1da05f",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Camper PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "6.15",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "121",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 121 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category - \"Cosmetics\" and \"Health&Beauty\"",
+                "date": "2020-12-04T12:28:01.610Z",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fca2a3dd9d82c070e1da061",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Tolpa PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "all",
+            "cashback": {
+                "sum": "12",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "205",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 205 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions, need to add category - \"Cosmetics\" and \"Health&Beauty\"",
+                "date": "",
+                "mark": "red",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fca2dc9d9d82c070e1da062",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Flaconi PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "9",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "137",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 137 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fca3071d9d82c070e1da063",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "StreetSupply PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "clothes",
+            "cashback": {
+                "sum": "10",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "173",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 173 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-05T08:18:18.794Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fcb4196d9d82c070e1da064",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Patrizia Pepe PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "zoo",
+            "cashback": {
+                "sum": "3",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "100",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 100 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-05T08:26:36.636Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fcb439bd9d82c070e1da065",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Horze PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        },
+        {
+            "category": "electronics",
+            "cashback": {
+                "sum": "10",
+                "rate": "0.5",
+                "type": "percent",
+                "manual": true,
+                "border": "to",
+                "currency": "",
+                "minTime": "60",
+                "maxTime": "100",
+                "conditions": "[{\"condition-1\":\"Cashback w tym sklepie naliczany jest od wartości netto zamówienia (bez kosztów dostawy)\",\n\"condition-2\":\"Zawsze przechodź do danego sklepu przez nasz serwis lub bezpośrednio aktywuj zwrot korzystając z wtyczki cashgoback.\",\n\"condition-3\":\"Wyłącz Adblocka na czas robienia zakupów.\",\n\"condition-4\":\"Upewnij się, że Twoja przeglądarka ma włączone ciasteczka (pliki Cookie).\",\n\"condition-5\":\"Nie korzystaj z żadnych kuponów rabatowych znalezionych na innych stronach. Może to spowodować, że nie otrzymasz cashbacku.\",\n\"condition-6\":\"Cashback może Ci nie przysługiwać, jeśli używasz do płacenia karty podarunkowej albo karty stałego klienta.\",\n\"condition-7\":\"Nie otrzymasz cashbacku jeśli anulujesz/zwrócisz swoje zamówienie.\",\n\"condition-7\":\"Zwrot będzie gotowy do wypłaty od 60 do 100 dni\",\n\"condition-8\":\"Po zrobieniu zakupów w tym sklepie Twój zwrot zostanie zarejestrowany w ciągu 48h.\"}]\n",
+                "st": "red"
+            },
+            "comments": {
+                "text": "Need description HTML, need cashback conditions",
+                "date": "2020-12-05T08:31:42.960Z",
+                "mark": "orange",
+                "st": "red"
+            },
+            "marker": "red",
+            "active": false,
+            "_id": "5fcb4543d9d82c070e1da066",
+            "apiData": {
+                "status": "",
+                "st": "red"
+            },
+            "name": "Swiat baterii PL",
+            "partnerID": "5fb96f38e668af228c106405",
+            "partnerName": "awin"
+        }
+    ]
+}
